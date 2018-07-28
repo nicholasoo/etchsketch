@@ -1,9 +1,10 @@
 .square {
-  height: 50px;
-  width: 50px;
-  background-color: #555;
+    display: inline-block;
 }
 
-.float{
-	float: left;
+#container {
+    border: 1px solid black;
+    height: 300px;
+    width: 300px;
 }
+
